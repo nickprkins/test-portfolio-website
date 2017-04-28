@@ -11,4 +11,4 @@ The site is very simple, but it also is responsive and changes the sections, con
 ![](testPortfolioTablet.png)
 
 ###Desktop Version
-![](![](testPortfolioDesktop.png)
+![](testPortfolioDesktop.png)
